@@ -1,5 +1,5 @@
 ### Olá, sou o Michael!
-Portfolio: portfolio-mdrgoncalves.vercel.app/
+<a href="https://portfolio-mdrgoncalves.vercel.app/" target="_blank">Portfolio</a>
  
 <!--
 **mdrgoncalves/mdrgoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
