@@ -10,5 +10,6 @@
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 </p>
 
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrgoncalves&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrgoncalves" /></p>
  
