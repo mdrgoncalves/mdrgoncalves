@@ -11,5 +11,5 @@
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrgoncalves&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrgoncalves" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrgoncalves&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrgoncalves" /></p>
  
