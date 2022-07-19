@@ -3,8 +3,8 @@
 
 <h2>:rocket:Technology</h2>
 <p align="left">
- <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://www.svgrepo.com/show/353884/html-5.svg)" alt="html" width="40" height="40"/>
+ <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" width="40" height="40"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrgoncalves&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrgoncalves" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrgoncalves&show_icons=true&theme=dark&locale=en&layout=compact" alt="mdrgoncalves" /></p>
  
