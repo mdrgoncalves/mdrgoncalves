@@ -1,6 +1,7 @@
 <h1 align="center">Hello, World! Michael Douglas here!</h1>
 <p align="center">I'm front-end developer who likes to learn new things.</p>
-<p align="center"> :star: All of my projects are available at: <img src="https://img.shields.io/static/v1?message=Portfolio&color=7159c1&style=for-the-badge&logo=ghost"/> :star: </p>
+<p align="center"> :star: All of my projects are available at: :star: </p>
+<img align="center" src="https://img.shields.io/static/v1?-message=Portfolio&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <h2>:rocket:Technology</h2>
 <p align="left">
